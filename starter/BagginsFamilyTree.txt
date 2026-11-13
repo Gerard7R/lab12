@@ -3,6 +3,9 @@ Mungo:Bungo,Belba,Longo,Linda,Bingo
 Ponto:Rosa,Polo
 Largo:Fosco
 Bungo:Bilbo
+Bilbo:Merigold,Pimpernel
+Merigold:Bracken
+Pimpernel:Thistle
 Longo:Otho
 Otho:Lotho
 Bingo:Falco
